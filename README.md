@@ -1,4 +1,4 @@
-# ☕ Java Programming - Homework 1
+# ☕ Java Programming
 
 Foundational Java programming projects demonstrating core concepts including string manipulation, algorithms, and problem-solving.
 
@@ -23,4 +23,4 @@ java hw1.ProgramName
 ```
 
 ## 💬 Contact
-**Zainab Qazi** - [GitHub](https://github.com/zozo080212) - [LinkedIn](https://www.linkedin.com/in/zainab--qazi/)
+**Zainab Qazi** - [GitHub](https://github.com/ZainabQ26) - [LinkedIn](https://www.linkedin.com/in/zainab--qazi/)
