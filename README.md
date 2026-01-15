@@ -16,11 +16,5 @@ Foundational Java programming projects demonstrating core concepts including str
 - Java
 - IntelliJ IDEA
 
-## 🚀 Run
-```bash
-javac hw1/*.java
-java hw1.ProgramName
-```
-
 ## 💬 Contact
 **Zainab Qazi** - [GitHub](https://github.com/ZainabQ26) - [LinkedIn](https://www.linkedin.com/in/zainab--qazi/)
